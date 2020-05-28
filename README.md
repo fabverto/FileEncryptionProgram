@@ -28,10 +28,8 @@ if the "encrypt" button is clicked without providing the path to file an error w
 
 
 ![](img/e6.PNG)<br />
-if the "encrypt" button is clicked and the two passwords don't match an error will be printed to the log box
+a select file window will open up if the file button is clicked
 
-
-![](img/e7.PNG)
 ![](img/e8.PNG)
 ![](img/e9.PNG)
 ![](img/e10.PNG)
