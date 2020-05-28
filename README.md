@@ -30,6 +30,12 @@ if the "encrypt" button is clicked without providing the path to file an error w
 ![](img/e6.PNG)<br />
 a select file window will open up if the file button is clicked
 
-![](img/e8.PNG)
-![](img/e9.PNG)
-![](img/e10.PNG)
+![](img/e8.PNG)<br />
+
+![](img/e10.PNG)<br />
+![](img/e11.PNG)<br />
+![](img/e12.PNG)<br />
+![](img/e13.PNG)<br />
+![](img/e14.PNG)<br />
+![](img/e15.PNG)<br />
+![](img/e16.PNG)<br />
