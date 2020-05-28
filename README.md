@@ -31,10 +31,16 @@ if the "encrypt" button is clicked without providing the path to file an error w
 a select file window will open up if the file button is clicked
 
 ![](img/e8.PNG)<br />
+contents of the text file selected
 
 ![](img/e10.PNG)<br />
+file path selected
+
 ![](img/e11.PNG)<br />
+if the "encrypt" button is clicked and the two paswords mismatch an error will be printed to the log box
+
 ![](img/e12.PNG)<br />
+encryption succesful message
 ![](img/e13.PNG)<br />
 ![](img/e14.PNG)<br />
 ![](img/e15.PNG)<br />
