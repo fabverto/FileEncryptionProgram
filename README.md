@@ -1,13 +1,13 @@
-Simple Encryption/Decryption Python Program that lets the user encrypt and decrypt a file using SHA-256
+Simple Encryption/Decryption Python Program that lets the user encrypt and decrypt a file using SHA-256 <br />
 The encrypted file is rename to: filename + "_encrypted" in the same location it was selected from.
 
-a salt needs to be added as a byte object, in the code this must be inserted in the "mysalt" variable, you can create one with "os.urandom(16)" in your python shell
+a salt needs to be added as a byte object, in the code this must be inserted in the "mysalt" variable, you can create one with <br /> "os.urandom(16)" in your python shell
 
-log window gives notice to the user of any errors:
--wrong password
--blank password
--mismatching passwords
--no file selected
+log window gives notice to the user of any errors:<br />
+-wrong password<br />
+-blank password<br />
+-mismatching passwords<br />
+-no file selected<br />
 
 ![](img/e1.PNG)<br />
 Main menu at program start, can click on either encrypt or decrypt button
