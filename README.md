@@ -51,3 +51,4 @@ error message displayed if decryption password doesn't match password used for e
 decryption complete
 
 ![](img/e16.PNG)<br />
+contents of decrypted file
