@@ -7,27 +7,27 @@ log window gives notice to the user of any errors:
 -mismatching passwords
 -no file selected
 
-![](img/e1.PNG)
+![](img/e1.PNG)<br />
 Main menu at program start, can click on either encrypt or decrypt button
 
 
-![](img/e2.PNG)
+![](img/e2.PNG)<br />
 If a button is clicked a new window pops up which disables the encryption/decryption buttons from the main menu
 
 
-![](img/e3.PNG)
+![](img/e3.PNG)<br />
 if the "encrypt" button is clicked without providing password and path to file an error will be printed to the log box
 
 
-![](img/e4.PNG)
+![](img/e4.PNG)<br />
 if the "encrypt" button is clicked without providing the second password and path to file an error will be printed to the log box
 
 
-![](img/e5.PNG)
+![](img/e5.PNG)<br />
 if the "encrypt" button is clicked without providing the path to file an error will be printed to the log box
 
 
-![](img/e6.PNG)
+![](img/e6.PNG)<br />
 if the "encrypt" button is clicked and the two passwords don't match an error will be printed to the log box
 
 
