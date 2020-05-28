@@ -42,6 +42,12 @@ if the "encrypt" button is clicked and the two paswords mismatch an error will b
 ![](img/e12.PNG)<br />
 encryption succesful message
 ![](img/e13.PNG)<br />
+contents of encrypted file
+
 ![](img/e14.PNG)<br />
+error message displayed if decryption password doesn't match password used for encryption
+
 ![](img/e15.PNG)<br />
+decryption complete
+
 ![](img/e16.PNG)<br />
